@@ -1,6 +1,5 @@
 ![Repository banner](assets/banner.png)
 
-
 # Emerging Digital Methodologies – EDM 2025
 
 This repository contains raw data from the EDM 2025 Call for Papers.
