@@ -8,5 +8,3 @@ This repository contains the raw data from the EDM 2025 Call for Papers.
 ## Notes
 - Data is anonymized
 - Intended for review purposes
-
-![Repository banner](banner.png)
