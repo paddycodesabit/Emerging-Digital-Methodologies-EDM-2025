@@ -1,4 +1,4 @@
-![Repository banner](assets/banner.png)
+![Repository banner](banner.png)
 
 # Emerging Digital Methodologies – EDM 2025
 
